@@ -1,1 +1,1 @@
-# AI-BDR
+# AI-SDR
